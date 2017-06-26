@@ -1,0 +1,2 @@
+# Laracasts: PHP Practitioner
+This repository contains the source code for the PHP web app I built while following Jerry's awesome tutorials. Aside from what he demonstrated and taught me, I added the ability to **mark a task as completed or not completed** and have it update the state in the database. This requires some Javascript magic as well but not too hard to understand. Feel free to look around if you happened to end up here — it's pretty neat.
